@@ -1,12 +1,11 @@
 # Budget-Simulator
 The Budget Buddy is a simple, command-line-based interactive program designed to help users track their personal monthly finances. It acts as a digital ledger, providing a straightforward way to set monthly income, record expenses by category.
-## 💰 Budget Buddy 💸
+# Budget Buddy 
 
 Budget Buddy is a simple **Python console application** designed to help you track your monthly income and expenses. It provides a quick and easy way to monitor your budget and see your remaining balance.
 
------
 
-## ✨ Features
+##  Features
 
   * **Set Monthly Income:** Easily define your monthly earnings.
   * **Add Expenses:** Track spending across custom categories (e.g., Rent, Food, Fun).
@@ -14,9 +13,9 @@ Budget Buddy is a simple **Python console application** designed to help you tra
   * **Friendly Feedback:** Receive encouraging messages based on your current budget status (saving, balanced, or overspending).
   * **Persistent Menu:** The application runs in a loop, allowing you to perform multiple actions until you choose to exit.
 
------
 
-## 🚀 Getting Started
+
+## Getting Started
 
 ### Prerequisites
 
@@ -32,13 +31,13 @@ You need **Python 3.x** installed on your system to run this script.
     python budget_buddy.py
     ```
 
------
+
 
 ## 💻 How to Use
 
 When you run the script, the main menu will appear:
 
-```
+
 Hello there! I'm your Budget Buddy.
 Let's keep track of your money together.
 
@@ -56,9 +55,9 @@ Enter your choice (1-4):
 3.  **Select `3. View My Budget Summary`** to see your current financial status, including category breakdowns and your remaining balance.
 4.  **Select `4. Exit`** to close the application.
 
------
 
-## 🛠️ Code Structure
+
+##  Code Structure
 
 The script is organized into two main functions:
 
@@ -69,12 +68,12 @@ The budget data is stored in memory (`income` and `expenses`), meaning it will b
 
 -----
 
-## 💡 Potential Enhancements
+## Potential Enhancements
 
   * **Data Persistence:** Implement saving/loading of the budget data to a file (e.g., JSON, CSV) so the data isn't lost when the application closes.
   * **Error Handling:** Add robust error checking for non-numeric or negative inputs.
   * **Expense Goals:** Allow users to set a maximum budget for specific categories.
 
------
+
 
 
