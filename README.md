@@ -77,4 +77,4 @@ The budget data is stored in memory (`income` and `expenses`), meaning it will b
 
 -----
 
-Would you like to explore ways to **add data persistence** to the `Budget Buddy` application, so the income and expenses are saved between sessions?
+
