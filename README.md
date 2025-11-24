@@ -33,7 +33,7 @@ You need **Python 3.x** installed on your system to run this script.
 
 
 
-## 💻 How to Use
+## How to Use
 
 When you run the script, the main menu will appear:
 
